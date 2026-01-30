@@ -1,1 +1,3 @@
-Enabled
+local AllowedStates = {
+	Enabled = true,
+}
